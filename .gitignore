@@ -1,0 +1,31 @@
+# ---- P1 Power BI repo (.pbix excluded by default) ----
+# Binary Power BI files (huge, noisy in Git history). Publish PDF/screenshots instead.
+*.pbix
+
+# Allow templates if you ever export one (they're smaller).
+# *.pbit
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python/Node (if you experiment)
+.venv/
+env/
+node_modules/
+
+# Data (optional private/raw areas you might create)
+/data/private/
+/data/raw/
+
+# Temp
+*.tmp
+~$*
+
+# Power BI temp/cache files
+*.pbix.tmp
+*.pbit.tmp

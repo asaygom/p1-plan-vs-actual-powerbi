@@ -1,0 +1,11 @@
+# Normalize line endings for text files
+* text=auto
+
+# Treat media/docs as binary (no diffs)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+
+# PBIX is binary (and ignored by default via .gitignore above)
+*.pbix binary
