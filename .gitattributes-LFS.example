@@ -1,0 +1,9 @@
+# Example: track large binaries with Git LFS (use if you want to version .pbix)
+# 1) Install LFS once per machine:
+#    git lfs install
+# 2) Enable tracking:
+#    git lfs track "*.pbix"
+#    git add .gitattributes
+#    git commit -m "Track PBIX with Git LFS"
+# 3) Push as usual (beware of your host's LFS quotas)
+*.pbix filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,26 @@
+ActivityID,WBS,Discipline,Area/Room,BaselineStart,BaselineFinish,ActualStart,ActualFinish,PlannedHours,ActualHours,PercentComplete
+DC001,1.1.1,Civil,Foundation Zone A,2025-07-06,2025-07-26,2025-07-06,2025-07-28,320,340,100
+DC002,1.1.2,Civil,Foundation Zone B,2025-07-13,2025-08-02,2025-07-15,,280,180,65
+DC003,1.1.3,Civil,Foundation Zone C,2025-07-20,2025-08-09,,,240,0,0
+DC004,1.2.1,Structural,Frame Level 1,2025-07-27,2025-08-16,2025-07-30,,400,280,70
+DC005,1.2.2,Structural,Frame Level 2,2025-08-03,2025-08-23,,,380,0,0
+DC006,1.2.3,Structural,Roof Structure,2025-08-10,2025-08-30,,,320,0,0
+DC007,1.3.1,MEP,Electrical Room 1,2025-08-17,2025-09-06,,,180,0,0
+DC008,1.3.2,MEP,HVAC Main Hall,2025-08-24,2025-09-13,,,220,0,0
+DC009,1.3.3,MEP,Fire Protection,2025-08-31,2025-09-20,,,160,0,0
+DC010,1.4.1,IT Infrastructure,Server Rack Zone,2025-09-07,2025-09-27,,,300,0,0
+DC011,1.4.2,IT Infrastructure,Network Cabling,2025-09-14,2025-10-04,,,250,0,0
+DC012,1.4.3,IT Infrastructure,UPS Installation,2025-09-21,2025-10-11,,,200,0,0
+DC013,1.5.1,Finishes,Flooring Main Hall,2025-09-28,2025-10-18,,,120,0,0
+DC014,1.5.2,Finishes,Interior Walls,2025-10-05,2025-10-25,,,100,0,0
+DC015,1.5.3,Finishes,Painting & Cleanup,2025-10-12,2025-11-01,,,80,0,0
+DC016,2.1.1,Civil,Exterior Concrete,2025-07-06,2025-07-19,2025-07-06,2025-07-22,200,220,100
+DC017,2.1.2,Civil,Site Utilities,2025-07-20,2025-08-09,2025-07-22,,180,120,65
+DC018,2.2.1,Structural,Steel Columns,2025-07-27,2025-08-16,2025-07-29,,350,245,70
+DC019,2.2.2,Structural,Steel Beams,2025-08-10,2025-08-30,,,300,0,0
+DC020,2.3.1,MEP,Main Electrical Feed,2025-08-17,2025-09-06,,,240,0,0
+DC021,2.3.2,MEP,Emergency Generator,2025-08-24,2025-09-13,,,280,0,0
+DC022,2.4.1,IT Infrastructure,Fiber Backbone,2025-09-07,2025-09-27,,,320,0,0
+DC023,2.4.2,IT Infrastructure,Security Systems,2025-09-14,2025-10-04,,,180,0,0
+DC024,2.5.1,Finishes,Access Flooring,2025-09-28,2025-10-18,,,90,0,0
+DC025,2.5.2,Finishes,Ceiling Installation,2025-10-05,2025-10-25,,,110,0,0
