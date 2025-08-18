@@ -243,7 +243,11 @@ If you include XER processing, add under `/scripts/xer_to_csv` a short guide or 
 
 ## License
 
-MIT (or your choice). Add a `LICENSE` file if needed.
+MIT License
+
+Copyright (c) 2025 Alexis Sayago
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
 
 ---
 
@@ -251,8 +255,3 @@ MIT (or your choice). Add a `LICENSE` file if needed.
 
 - v0.1 — Starter (CSV) model & measures
 - v0.2 — Appendix: EVM hours, SPI/CPI, 4W MA, XER mapping
-
----
-
-**Recommended GitHub topics:** powerbi, dax, project-controls, construction-tech, kpis, variance-analysis  
-**Badges (optional):** build a simple "Made with Power BI / pandas" shields row.
