@@ -110,6 +110,24 @@ FridayLabel = 'DimDate'[Date] + 5
 
 **Slicers**: `Discipline`, `Area/Room`, `WBS`, Week range.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/Executive_View.png" alt="Complete project visibility in one view" width="900"><br/>
+  <em>Complete project visibility in one view</em>
+</p>
+
+<p align="center">
+  <img src="assets/Civil_discipline.png" alt="Root cause analysis through interactive filtering" width="900"><br/>
+  <em>Root cause analysis through interactive filtering</em>
+</p>
+
+<p align="center">
+  <img src="assets/Mobile_Responsive.png" alt="Mobile-first analytics for field teams" width="900"><br/>
+  <em>Mobile-first analytics for field teams</em>
+</p>
+
+
 ### 1.5 Quickstart (60 seconds)
 1. Clone repo and open `p1.pbix`.
 2. Get Data → Text/CSV → load `/data/activities.csv` and `/data/date.csv`.
